@@ -1,26 +1,16 @@
 ### Aloha ～ 👋
 
-### Hi there 👋  
 <table  align="center" width="100%">
 <tr>
 <td valign="top">
 
-#### Hi，我是StuartYang，Java从业者
+#### Aloha，我是旭东，互联网从业者
 
-- :briefcase: Low level architect<br/>
-- :pencil2: Golang/Java/Shell/Python/JS<br/>
-- :hammer_and_wrench: omz/JetBrains/Atom/GitHub Action<br/>
-- :hearts: The Art of Code/Slasher<br/>
+- :pencil2: Java/Shell/C/JS<br/>
 - :email: yang.xudong@outlook.com<br/>
 
 </td>
 <td valign="top">
-
-#### 📈 一点微小的工作
-
-![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=StuartYang&show_icons=true&count_private=true&theme=vue)
-  
-</td>
 </tr>
 
 <tr>
@@ -35,7 +25,7 @@
   
 <td valign="top">
 
-#### 🤾‍♂️ <a href="https://movie.douban.com/people/znyalor/collect" target="_blank">Funny Soul</a>
+#### 🤾‍♂️ <a href="https://movie.douban.com/people/yang_xudong/collect" target="_blank">旭东同学</a>
 
 <!-- START_SECTION:douban -->
 
