@@ -1,4 +1,10 @@
-### Hi there 👋
+### Aloha ～ 👋
+
+<!-- START_SECTION:blog -->
+<!-- END_SECTION:blog -->
+
+<!-- START_SECTION:douban -->
+<!-- END_SECTION:douban -->
 
 <!--
 **StuartYang/StuartYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
