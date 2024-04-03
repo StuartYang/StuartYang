@@ -2,5 +2,5 @@
 
 - ❤️: 🏀, 🏃 ,🚴 ...
 - ✏️: Java / Shell / C / JS<br/>
-- 📧: yang.xudong@outlook.com<br/>
+- 📧: stuartyangout@outlook.com<br/>
 -  📓：https://yangxudong.site/
